@@ -1,0 +1,25 @@
+/* Navbar.css */
+.navbar {
+  height: 15vh; /* scales relative to screen height */
+  width: 100%;
+  display: flex;
+  align-items: center; /* center vertically */
+}
+
+/* image adapts to container */
+.navbar img {
+  height: 100%; /* scales with navbar height */
+  width: auto;
+  padding-left: 10vw;
+}
+
+/* media query for small screens */
+@media (max-width: 768px) {
+  .navbar {
+    height: 10vh; /* smaller navbar on phones */
+  }
+
+  .navbar img {
+    padding-left: 3vw;
+  }
+}

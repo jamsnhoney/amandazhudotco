@@ -1,0 +1,22 @@
+.textbody {
+    margin: auto;
+}
+
+.textbody h1 {
+    font-size: 32px;
+    color: #434842;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: left;
+} 
+
+.textbody p {
+    font-size: 16px;
+    color: #434842;
+    margin: 20px;
+    text-align: left;
+}
+
+.bullets {
+    margin-left: 5vw;
+}
