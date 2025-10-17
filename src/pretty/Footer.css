@@ -1,3 +1,7 @@
+.footer p {
+    display: inline;
+}
+
 .footer-left p {
     font-size: 14px;
     color: #71776E;
