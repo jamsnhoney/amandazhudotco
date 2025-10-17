@@ -5,11 +5,9 @@ function Navbar() {
   return (
     <div className="textbody">
         <h1> amanda zhu .ᐟ </h1>
-        <p> based in toronto, i love all things design & code . <br></br>
-        i'm currently : </p>
         <div className="bullets">
+            <p> ⊹ ui/ux/graphic design </p>
             <p> ⊹ studying biomedical computing @ queen's u</p>
-            <p> ⊹ growing queen's ux club (co-founded last year)</p>
             <p> ⊹ freelancing logo, website & graphic design</p>
 
         </div>
