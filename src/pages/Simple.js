@@ -9,9 +9,7 @@ function Navbar() {
             <p> ⊹ ui/ux/graphic design </p>
             <p> ⊹ studying biomedical computing @ queen's u</p>
             <p> ⊹ freelancing logo, website & graphic design</p>
-
         </div>
-        <p> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
     </div>
   );
 }
