@@ -1,0 +1,13 @@
+.footer-left p {
+    font-size: 14px;
+    color: #71776E;
+    margin: 10px;
+    text-align: left;
+}
+
+.footer-right p {
+    font-size: 14px;
+    color: #71776E;
+    margin: 10px;
+    text-align: right;
+}
